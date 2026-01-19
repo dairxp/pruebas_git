@@ -1,0 +1,7 @@
+print(7+9)
+print(9-2)
+print(9*2)
+print(8/5)
+print(2)
+print(4**2)
+print(8//2)
